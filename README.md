@@ -5,3 +5,7 @@
 - No code is provided due to piracy prevention.
 - More versions coming soon.
 - If I dont update its cause I have been busy
+# Ideas or problems?
+- Put them in the issues, and ill try to add or fix it.
+# Coming soon
+- Craftable Eggs!!
